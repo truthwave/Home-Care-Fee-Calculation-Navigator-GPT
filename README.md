@@ -1,6 +1,6 @@
 # Home Care Fee Calculation Navigator GPT (訪問介護 報酬算定ナビGPT)
 
-> “Accurately calculate home care service fees and reduce billing errors.”
+> **“Accurately calculate home care service fees and reduce billing errors.”**
 
 ---
 
@@ -8,23 +8,40 @@
 
 **Home Care Fee Calculation Navigator GPT (訪問介護 報酬算定ナビGPT)** is a GPT-powered assistant designed for managers and professionals in Japan’s home care industry.
 
-Japan’s long-term care fee system is highly complex and frequently updated. This tool helps users:
+Japan’s long-term care fee system is complex and frequently updated. This tool helps users:
 
 - Determine billing eligibility
 - Calculate service units and estimated fees
 - Understand legal references from official government notifications
 
-It explains complicated rules in **clear, accessible Japanese**, reducing errors and administrative burden for care service providers.
+It explains complicated rules in **clear, accessible Japanese**, reducing errors and administrative burdens for care service providers.
 
 ---
 
 ## ⚙️ Key Features
 
-- ✅ Determines billing eligibility for home care services under Japan’s Long-Term Care Insurance (LTCI)
-- ✅ Explains conditions and requirements for additional fees (加算)
-- ✅ Calculates service units and estimated costs
-- ✅ Provides citations from official government notifications and regulations
-- ✅ Outputs explanations in clear, user-friendly Japanese
+✅ **Billing Eligibility Judgement**
+- Determines billing eligibility for home care services under Japan’s LTCI
+
+---
+
+✅ **Additional Fee Explanations (加算)**
+- Explains conditions and requirements for various additional fees
+
+---
+
+✅ **Unit and Cost Calculation**
+- Calculates service units and estimated charges
+
+---
+
+✅ **Legal References**
+- Provides citations from official notifications and regulations
+
+---
+
+✅ **User-Friendly Explanations**
+- Outputs in clear, understandable Japanese
 
 ---
 
@@ -32,13 +49,13 @@ It explains complicated rules in **clear, accessible Japanese**, reducing errors
 
 - Managers of home care service providers
 - Care managers (ケアマネジャー)
-- Professionals in legal or administrative services specializing in long-term care (e.g. social insurance consultants, administrative scriveners)
+- Legal and administrative professionals specializing in long-term care (e.g. social insurance consultants, administrative scriveners)
 
 ---
 
 ## 💻 Usage Examples
 
-Here are sample prompts you can ask this GPT:
+Here are examples of how you might use the GPT:
 
 ---
 
@@ -52,10 +69,10 @@ For a user with Care Level 2, receiving home care services focused on daily livi
 
 ---
 
-### GPT Example Output
+### ✅ GPT Example Output
 
 > **【Conclusion】**  
-> For a user with Care Level 2 using daily living support services (30 minutes) three times per week, billing is possible. However, daily living support requires certain conditions, such as the user living alone or lacking family support.  
+> For a user with Care Level 2 receiving daily living support services (30 minutes) three times per week, billing is possible. However, daily living support services require certain conditions, such as the user living alone or lacking family support.  
 >
 > **【Unit Calculation】**  
 > 183 units × 12 visits = 2,196 units  
@@ -89,30 +106,30 @@ If home care services are provided twice in the same day, can both be billed? Ho
 ## 🛠 Technical Highlights
 
 - **Custom Prompt Engineering**
-  - Designed for Japanese LTCI terminology
+  - Tailored for Japan’s LTCI terminology
   - Outputs calculations and references in user-friendly formats
 
 - **Legal Accuracy**
   - Cites relevant government notifications
-  - Warns users about potential future regulatory changes
+  - Warns users about potential regulatory changes
 
-- **User Experience Focus**
-  - Provides short, clear answers
-  - Offers follow-up details when needed
+- **UX-Focused Design**
+  - Provides concise answers
+  - Expands explanations if needed
 
 ---
 
 ## ⚠️ Disclaimer
 
 - This tool is for guidance and reference only.
-- Final billing decisions should always be reviewed by qualified professionals.
-- Legal regulations and unit prices may change due to future policy revisions.
+- Final billing decisions should be confirmed with qualified professionals.
+- Regulations and unit prices may change due to policy revisions.
 
 ---
 
 ## 🌐 Demo
 
-[View 訪問介護 報酬算定ナビGPT on ChatGPT](https://chatgpt.com/g/g-6871b2d7e26c81919d81b3d70bdce95d-wen-jie-hu-bao-chou-suan-ding-nahigpt)
+[Try 訪問介護 報酬算定ナビGPT on ChatGPT](https://chatgpt.com/g/g-6871b2d7e26c81919d81b3d70bdce95d-wen-jie-hu-bao-chou-suan-ding-nahigpt)
 
 ---
 
@@ -120,7 +137,7 @@ If home care services are provided twice in the same day, can both be billed? Ho
 
 I designed and developed this GPT, including:
 
-- Prompt engineering tailored to the Japanese long-term care system
+- Prompt engineering tailored for Japan’s long-term care fee system
 - UX design for clarity and usability
 - Testing and refining calculations and legal explanations
 
@@ -131,6 +148,9 @@ I designed and developed this GPT, including:
 MIT License
 
 ---
+
+> **“Accurately calculate home care service fees and reduce billing errors.”**
+
 
 ---
 
