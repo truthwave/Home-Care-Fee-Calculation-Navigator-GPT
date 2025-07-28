@@ -1,3 +1,8 @@
+<p>
+  <img width="1536" height="1024" alt="訪問介護の報酬算定、AIで正確に。" src="https://github.com/user-attachments/assets/ed3f48a2-2a9c-49fe-9394-3473fdf60d8f" />
+
+</p>
+
 # 訪問介護 報酬算定ナビGPT
 
 > 「訪問介護の報酬算定を正確に。誤請求のリスクを減らします。」
