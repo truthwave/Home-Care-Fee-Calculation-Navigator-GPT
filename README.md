@@ -1,4 +1,5 @@
 <p align="center">
+<img width="1536" height="1024" alt="訪問介護の報酬算定、AIで正確に。" src="https://github.com/user-attachments/assets/9280fc69-0768-42eb-9053-5b11fd1a0740" />
 
 </p>
 
