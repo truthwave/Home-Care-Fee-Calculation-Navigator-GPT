@@ -127,6 +127,8 @@ MIT License
 
 > **「訪問介護の報酬算定を正確に。誤請求のリスクを減らします。」**
 
+---
+
 ## 🧑‍💻 作者
 
 **[Truth Wave ― 真理の波](https://github.com/truthwave)**  
