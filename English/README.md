@@ -1,145 +1,78 @@
-# Home Care Fee Calculation Navigator GPT (訪問介護 報酬算定ナビGPT)
+# Home Care Fee Calculation Navigator GPT
 
-> **“Accurately calculate home care service fees and reduce billing errors.”**
-
----
-
-## 📌 Overview
-
-**Home Care Fee Calculation Navigator GPT (訪問介護 報酬算定ナビGPT)** is a GPT-powered assistant designed for managers and professionals in Japan’s home care industry.
-
-Japan’s long-term care fee system is complex and frequently updated. This tool helps users:
-
-- Determine billing eligibility
-- Calculate service units and estimated fees
-- Understand legal references from official government notifications
-
-It explains complicated rules in **clear, accessible Japanese**, reducing errors and administrative burdens for care service providers.
+> **Verification time: 60 min → 10 min.**
+> Prevents calculation omissions and stops incorrect billing.
+> All justifications on one screen.
 
 ---
 
-## ⚙️ Key Features
+## Experience (Three are sufficient)
 
-✅ **Billing Eligibility Judgement**
-- Determines billing eligibility for home care services under Japan’s LTCI
-
----
-
-✅ **Additional Fee Explanations (加算)**
-- Explains conditions and requirements for various additional fees
+- **Determination of Eligibility Criteria** (**Provisional**): Instantly checks service type, hours, and same-day multiple services
+- **Calculation of Unit Counts and Estimated Amounts**: Clearly states assumptions and displays calculation process
+- **Location of Notifications/Notices**: Returns “reference-type” information: notification number / date of notification / relevant chapter/section
+> The goal is “certainty.” Leave gray areas as cautionary notes.
 
 ---
 
-✅ **Unit and Cost Calculation**
-- Calculates service units and estimated charges
+## Before → After
+
+- **Verification Work**: 60 minutes → 10 minutes
+- **Early Detection of Calculation Omissions**: Manual, person-dependent → Rule-based checklist
+- **Reference Search**: Manual → **Location Links** (reference type)
+> *Numbers are estimates. May vary by operation/region.*
 
 ---
 
-✅ **Legal References**
-- Provides citations from official notifications and regulations
+## How to Use (3 Steps)
 
----
+1. Enter user category, service details, and time<br>
+2. Requirements determination/unit count/estimate and references output<br>
+3. Final confirmation based on facility rules → Proceed to operation
 
-✅ **User-Friendly Explanations**
-- Outputs in clear, understandable Japanese
-
----
-
-## 🎯 Target Users
-
-- Managers of home care service providers
-- Care managers (ケアマネジャー)
-- Legal and administrative professionals specializing in long-term care (e.g. social insurance consultants, administrative scriveners)
+👉 [Try it with ChatGPT (Free)](https://chatgpt.com/g/g-6871b2d7e26c81919d81b3d70bdce95d-wen-jie-hu-bao-chou-suan-ding-nahigpt)
 
 ---
 
 ## 💻 Usage Examples
 
-Here are examples of how you might use the GPT:
+Below are examples you can input into GPT:
+
+### Input Example 1
+
+> Is it possible to bill for a Level 2 care recipient using 30-minute home care visits focused on daily living assistance 3 times a week? What is the monthly unit count?
+
+#### GPT Output Example:
+
+* **Conclusion:** For a user with Care Level 2 receiving 30-minute daily living assistance-focused services 3 times per week, **billing is possible**. However, daily living assistance-focused services require **certain conditions to be met**, such as living alone or having difficulty with family support.
+* **Unit Calculation:** 183 units × 12 sessions = **2,196 units** (Estimated cost: ¥21,960 ※¥10 per unit)
+* **Legal Basis:** Ministry of Health, Labour and Welfare Notification No. ○ (2024 Long-Term Care Insurance Fee Revision)
 
 ---
 
-### Example Prompt 1
+### Input Example 2
 
-```
+> Under what conditions can the initial service fee be calculated? How long is the calculation period?
 
-For a user with Care Level 2, receiving home care services focused on daily living support (30 minutes), three times a week — is this billable? How many units per month?
+### Input Example 3
 
-```
-
----
-
-### ✅ GPT Example Output
-
-> **【Conclusion】**  
-> For a user with Care Level 2 receiving daily living support services (30 minutes) three times per week, billing is possible. However, daily living support services require certain conditions, such as the user living alone or lacking family support.  
->
-> **【Unit Calculation】**  
-> 183 units × 12 visits = 2,196 units  
-> Estimated cost (assuming ¥10 per unit): ¥21,960  
->
-> **【Legal Reference】**  
-> Ministry of Health, Labour and Welfare Notification No. ○ (2024 Long-Term Care Fee Revision)
+> If two home care services are provided on the same day, can each be calculated separately? How is it calculated?
 
 ---
 
-### Example Prompt 2
+## Design Principles
 
-```
-
-What are the conditions for claiming the Initial Visit Fee (初回加算)? How long is it applicable?
-
-```
+- **Always explicitly state prerequisites**. (Unit price, regional surcharge, same-day multiple services, etc.)
+- **Include wording to prevent incorrect billing**. Clearly state possibilities, reservations, and final confirmation.
 
 ---
 
-### Example Prompt 3
+##  Important Notes
 
-```
+- This tool is for **reference purposes only**.
+- The final decision must be made by the **responsible person or expert** at the facility.
+- Laws and unit prices are subject to change due to revisions. Always verify the **latest official sources**.
 
-If home care services are provided twice in the same day, can both be billed? How is it calculated?
-
-```
-
----
-
-## 🛠 Technical Highlights
-
-- **Custom Prompt Engineering**
-  - Tailored for Japan’s LTCI terminology
-  - Outputs calculations and references in user-friendly formats
-
-- **Legal Accuracy**
-  - Cites relevant government notifications
-  - Warns users about potential regulatory changes
-
-- **UX-Focused Design**
-  - Provides concise answers
-  - Expands explanations if needed
-
----
-
-## ⚠️ Disclaimer
-
-- This tool is for guidance and reference only.
-- Final billing decisions should be confirmed with qualified professionals.
-- Regulations and unit prices may change due to policy revisions.
-
----
-
-## 🌐 Demo
-
-[Try 訪問介護 報酬算定ナビGPT on ChatGPT](https://chatgpt.com/g/g-6871b2d7e26c81919d81b3d70bdce95d-wen-jie-hu-bao-chou-suan-ding-nahigpt)
-
----
-
-## 👨‍💻 My Role
-
-I designed and developed this GPT, including:
-
-- Prompt engineering tailored for Japan’s long-term care fee system
-- UX design for clarity and usability
-- Testing and refining calculations and legal explanations
 
 ---
 
@@ -149,7 +82,15 @@ MIT License
 
 ---
 
-> **“Accurately calculate home care service fees and reduce billing errors.”**
+## 🧑‍💻 Author
 
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Please also check out our portfolio and information on AI tool development!
+
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
 ---
+
+> **Don't embellish. Reduce uncertainty.**
+> Leave only certainty behind on the field.
