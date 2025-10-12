@@ -4,6 +4,10 @@
 > Prevents calculation omissions and stops incorrect billing.
 > All justifications on one screen.
 
+<p align="center">
+<img width="1536" height="1024" alt="訪問介護 報酬算定ナビGPT" src="https://github.com/user-attachments/assets/9d8f398d-85f9-46eb-907d-a1893a4d5638" />
+</p>
+
 ---
 
 ## Experience (Three are sufficient)
