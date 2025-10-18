@@ -5,8 +5,7 @@
 > 根拠まで、一画面。
 
 <p align="center">
-<img width="1536" height="1024" alt="訪問介護の報酬算定、AIで正確に。" src="https://github.com/user-attachments/assets/2fd2acc6-7aed-46d9-9f58-5b577ef28884" />
-
+<img width="1536" height="1024" alt="訪問看護 (1)" src="https://github.com/user-attachments/assets/ab1bdcb1-9db7-4604-bffa-375986f56979" />
 </p>
 
 ---
