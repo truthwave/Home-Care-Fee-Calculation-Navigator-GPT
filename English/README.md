@@ -5,7 +5,7 @@
 > All justifications on one screen.
 
 <p align="center">
-<img width="1536" height="1024" alt="訪問看護 (2)" src="https://github.com/user-attachments/assets/b1432623-21b4-44e4-be35-3938473f06f9" />
+<img width="1536" height="1024" alt="訪問看護" src="https://github.com/user-attachments/assets/e668e17c-8bb1-489d-af24-7cb5a448cfbe" />
 </p>
 
 ---
