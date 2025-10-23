@@ -5,7 +5,7 @@
 > 根拠まで、一画面。
 
 <p align="center">
-<img width="1536" height="1024" alt="訪問看護 (1)" src="https://github.com/user-attachments/assets/ab1bdcb1-9db7-4604-bffa-375986f56979" />
+<img width="1536" height="1024" alt="訪問看護" src="https://github.com/user-attachments/assets/62d87dd3-baac-4f0f-8e69-bc2c710842ab" />
 </p>
 
 ---
